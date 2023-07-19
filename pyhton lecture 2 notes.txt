@@ -1,0 +1,16 @@
+I want to create a variable 
+The variable will have a value 
+hence there will be no remainder 
+so return value is 0
+
+We are trying to initiate a function in 
+my_class. When we initiate the function 
+it has to come from the function of 
+my_class
+
+any value that the variable assigned to
+the function takes and is a postive boolean 
+value hence the answer by logic is "yes"
+If the value does not undertake any values 
+then the answer is "no". 
+
